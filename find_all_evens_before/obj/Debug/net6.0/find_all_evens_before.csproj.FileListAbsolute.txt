@@ -1,0 +1,15 @@
+D:\SeminarsVC\Csharp\find_all_evens_before\bin\Debug\net6.0\find_all_evens_before.exe
+D:\SeminarsVC\Csharp\find_all_evens_before\bin\Debug\net6.0\find_all_evens_before.deps.json
+D:\SeminarsVC\Csharp\find_all_evens_before\bin\Debug\net6.0\find_all_evens_before.runtimeconfig.json
+D:\SeminarsVC\Csharp\find_all_evens_before\bin\Debug\net6.0\find_all_evens_before.dll
+D:\SeminarsVC\Csharp\find_all_evens_before\bin\Debug\net6.0\find_all_evens_before.pdb
+D:\SeminarsVC\Csharp\find_all_evens_before\obj\Debug\net6.0\find_all_evens_before.csproj.AssemblyReference.cache
+D:\SeminarsVC\Csharp\find_all_evens_before\obj\Debug\net6.0\find_all_evens_before.GeneratedMSBuildEditorConfig.editorconfig
+D:\SeminarsVC\Csharp\find_all_evens_before\obj\Debug\net6.0\find_all_evens_before.AssemblyInfoInputs.cache
+D:\SeminarsVC\Csharp\find_all_evens_before\obj\Debug\net6.0\find_all_evens_before.AssemblyInfo.cs
+D:\SeminarsVC\Csharp\find_all_evens_before\obj\Debug\net6.0\find_all_evens_before.csproj.CoreCompileInputs.cache
+D:\SeminarsVC\Csharp\find_all_evens_before\obj\Debug\net6.0\find_all_evens_before.dll
+D:\SeminarsVC\Csharp\find_all_evens_before\obj\Debug\net6.0\refint\find_all_evens_before.dll
+D:\SeminarsVC\Csharp\find_all_evens_before\obj\Debug\net6.0\find_all_evens_before.pdb
+D:\SeminarsVC\Csharp\find_all_evens_before\obj\Debug\net6.0\find_all_evens_before.genruntimeconfig.cache
+D:\SeminarsVC\Csharp\find_all_evens_before\obj\Debug\net6.0\ref\find_all_evens_before.dll
