@@ -1,0 +1,15 @@
+D:\SeminarsVC\Csharp\find_max_among_three_numbers\bin\Debug\net6.0\find_max_among_three_numbers.exe
+D:\SeminarsVC\Csharp\find_max_among_three_numbers\bin\Debug\net6.0\find_max_among_three_numbers.deps.json
+D:\SeminarsVC\Csharp\find_max_among_three_numbers\bin\Debug\net6.0\find_max_among_three_numbers.runtimeconfig.json
+D:\SeminarsVC\Csharp\find_max_among_three_numbers\bin\Debug\net6.0\find_max_among_three_numbers.dll
+D:\SeminarsVC\Csharp\find_max_among_three_numbers\bin\Debug\net6.0\find_max_among_three_numbers.pdb
+D:\SeminarsVC\Csharp\find_max_among_three_numbers\obj\Debug\net6.0\find_max_among_three_numbers.csproj.AssemblyReference.cache
+D:\SeminarsVC\Csharp\find_max_among_three_numbers\obj\Debug\net6.0\find_max_among_three_numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SeminarsVC\Csharp\find_max_among_three_numbers\obj\Debug\net6.0\find_max_among_three_numbers.AssemblyInfoInputs.cache
+D:\SeminarsVC\Csharp\find_max_among_three_numbers\obj\Debug\net6.0\find_max_among_three_numbers.AssemblyInfo.cs
+D:\SeminarsVC\Csharp\find_max_among_three_numbers\obj\Debug\net6.0\find_max_among_three_numbers.csproj.CoreCompileInputs.cache
+D:\SeminarsVC\Csharp\find_max_among_three_numbers\obj\Debug\net6.0\find_max_among_three_numbers.dll
+D:\SeminarsVC\Csharp\find_max_among_three_numbers\obj\Debug\net6.0\refint\find_max_among_three_numbers.dll
+D:\SeminarsVC\Csharp\find_max_among_three_numbers\obj\Debug\net6.0\find_max_among_three_numbers.pdb
+D:\SeminarsVC\Csharp\find_max_among_three_numbers\obj\Debug\net6.0\find_max_among_three_numbers.genruntimeconfig.cache
+D:\SeminarsVC\Csharp\find_max_among_three_numbers\obj\Debug\net6.0\ref\find_max_among_three_numbers.dll
