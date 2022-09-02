@@ -1,0 +1,15 @@
+D:\SeminarsVC\Csharp\find_odd_and_even\bin\Debug\net6.0\find_odd_and_even.exe
+D:\SeminarsVC\Csharp\find_odd_and_even\bin\Debug\net6.0\find_odd_and_even.deps.json
+D:\SeminarsVC\Csharp\find_odd_and_even\bin\Debug\net6.0\find_odd_and_even.runtimeconfig.json
+D:\SeminarsVC\Csharp\find_odd_and_even\bin\Debug\net6.0\find_odd_and_even.dll
+D:\SeminarsVC\Csharp\find_odd_and_even\bin\Debug\net6.0\find_odd_and_even.pdb
+D:\SeminarsVC\Csharp\find_odd_and_even\obj\Debug\net6.0\find_odd_and_even.csproj.AssemblyReference.cache
+D:\SeminarsVC\Csharp\find_odd_and_even\obj\Debug\net6.0\find_odd_and_even.GeneratedMSBuildEditorConfig.editorconfig
+D:\SeminarsVC\Csharp\find_odd_and_even\obj\Debug\net6.0\find_odd_and_even.AssemblyInfoInputs.cache
+D:\SeminarsVC\Csharp\find_odd_and_even\obj\Debug\net6.0\find_odd_and_even.AssemblyInfo.cs
+D:\SeminarsVC\Csharp\find_odd_and_even\obj\Debug\net6.0\find_odd_and_even.csproj.CoreCompileInputs.cache
+D:\SeminarsVC\Csharp\find_odd_and_even\obj\Debug\net6.0\find_odd_and_even.dll
+D:\SeminarsVC\Csharp\find_odd_and_even\obj\Debug\net6.0\refint\find_odd_and_even.dll
+D:\SeminarsVC\Csharp\find_odd_and_even\obj\Debug\net6.0\find_odd_and_even.pdb
+D:\SeminarsVC\Csharp\find_odd_and_even\obj\Debug\net6.0\find_odd_and_even.genruntimeconfig.cache
+D:\SeminarsVC\Csharp\find_odd_and_even\obj\Debug\net6.0\ref\find_odd_and_even.dll
