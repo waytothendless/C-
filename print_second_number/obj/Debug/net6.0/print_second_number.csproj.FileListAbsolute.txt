@@ -1,0 +1,15 @@
+D:\SeminarsVC\Csharp\print_second_number\bin\Debug\net6.0\print_second_number.exe
+D:\SeminarsVC\Csharp\print_second_number\bin\Debug\net6.0\print_second_number.deps.json
+D:\SeminarsVC\Csharp\print_second_number\bin\Debug\net6.0\print_second_number.runtimeconfig.json
+D:\SeminarsVC\Csharp\print_second_number\bin\Debug\net6.0\print_second_number.dll
+D:\SeminarsVC\Csharp\print_second_number\bin\Debug\net6.0\print_second_number.pdb
+D:\SeminarsVC\Csharp\print_second_number\obj\Debug\net6.0\print_second_number.csproj.AssemblyReference.cache
+D:\SeminarsVC\Csharp\print_second_number\obj\Debug\net6.0\print_second_number.GeneratedMSBuildEditorConfig.editorconfig
+D:\SeminarsVC\Csharp\print_second_number\obj\Debug\net6.0\print_second_number.AssemblyInfoInputs.cache
+D:\SeminarsVC\Csharp\print_second_number\obj\Debug\net6.0\print_second_number.AssemblyInfo.cs
+D:\SeminarsVC\Csharp\print_second_number\obj\Debug\net6.0\print_second_number.csproj.CoreCompileInputs.cache
+D:\SeminarsVC\Csharp\print_second_number\obj\Debug\net6.0\print_second_number.dll
+D:\SeminarsVC\Csharp\print_second_number\obj\Debug\net6.0\refint\print_second_number.dll
+D:\SeminarsVC\Csharp\print_second_number\obj\Debug\net6.0\print_second_number.pdb
+D:\SeminarsVC\Csharp\print_second_number\obj\Debug\net6.0\print_second_number.genruntimeconfig.cache
+D:\SeminarsVC\Csharp\print_second_number\obj\Debug\net6.0\ref\print_second_number.dll

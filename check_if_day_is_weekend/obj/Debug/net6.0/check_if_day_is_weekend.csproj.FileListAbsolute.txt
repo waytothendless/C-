@@ -1,0 +1,15 @@
+D:\SeminarsVC\Csharp\check_if_day_is_weekend\bin\Debug\net6.0\check_if_day_is_weekend.exe
+D:\SeminarsVC\Csharp\check_if_day_is_weekend\bin\Debug\net6.0\check_if_day_is_weekend.deps.json
+D:\SeminarsVC\Csharp\check_if_day_is_weekend\bin\Debug\net6.0\check_if_day_is_weekend.runtimeconfig.json
+D:\SeminarsVC\Csharp\check_if_day_is_weekend\bin\Debug\net6.0\check_if_day_is_weekend.dll
+D:\SeminarsVC\Csharp\check_if_day_is_weekend\bin\Debug\net6.0\check_if_day_is_weekend.pdb
+D:\SeminarsVC\Csharp\check_if_day_is_weekend\obj\Debug\net6.0\check_if_day_is_weekend.csproj.AssemblyReference.cache
+D:\SeminarsVC\Csharp\check_if_day_is_weekend\obj\Debug\net6.0\check_if_day_is_weekend.GeneratedMSBuildEditorConfig.editorconfig
+D:\SeminarsVC\Csharp\check_if_day_is_weekend\obj\Debug\net6.0\check_if_day_is_weekend.AssemblyInfoInputs.cache
+D:\SeminarsVC\Csharp\check_if_day_is_weekend\obj\Debug\net6.0\check_if_day_is_weekend.AssemblyInfo.cs
+D:\SeminarsVC\Csharp\check_if_day_is_weekend\obj\Debug\net6.0\check_if_day_is_weekend.csproj.CoreCompileInputs.cache
+D:\SeminarsVC\Csharp\check_if_day_is_weekend\obj\Debug\net6.0\check_if_day_is_weekend.dll
+D:\SeminarsVC\Csharp\check_if_day_is_weekend\obj\Debug\net6.0\refint\check_if_day_is_weekend.dll
+D:\SeminarsVC\Csharp\check_if_day_is_weekend\obj\Debug\net6.0\check_if_day_is_weekend.pdb
+D:\SeminarsVC\Csharp\check_if_day_is_weekend\obj\Debug\net6.0\check_if_day_is_weekend.genruntimeconfig.cache
+D:\SeminarsVC\Csharp\check_if_day_is_weekend\obj\Debug\net6.0\ref\check_if_day_is_weekend.dll

@@ -1,0 +1,15 @@
+D:\SeminarsVC\Csharp\print_third_number\obj\Debug\net6.0\print_third_number.csproj.AssemblyReference.cache
+D:\SeminarsVC\Csharp\print_third_number\obj\Debug\net6.0\print_third_number.GeneratedMSBuildEditorConfig.editorconfig
+D:\SeminarsVC\Csharp\print_third_number\obj\Debug\net6.0\print_third_number.AssemblyInfoInputs.cache
+D:\SeminarsVC\Csharp\print_third_number\obj\Debug\net6.0\print_third_number.AssemblyInfo.cs
+D:\SeminarsVC\Csharp\print_third_number\obj\Debug\net6.0\print_third_number.csproj.CoreCompileInputs.cache
+D:\SeminarsVC\Csharp\print_third_number\bin\Debug\net6.0\print_third_number.exe
+D:\SeminarsVC\Csharp\print_third_number\bin\Debug\net6.0\print_third_number.deps.json
+D:\SeminarsVC\Csharp\print_third_number\bin\Debug\net6.0\print_third_number.runtimeconfig.json
+D:\SeminarsVC\Csharp\print_third_number\bin\Debug\net6.0\print_third_number.dll
+D:\SeminarsVC\Csharp\print_third_number\bin\Debug\net6.0\print_third_number.pdb
+D:\SeminarsVC\Csharp\print_third_number\obj\Debug\net6.0\print_third_number.dll
+D:\SeminarsVC\Csharp\print_third_number\obj\Debug\net6.0\refint\print_third_number.dll
+D:\SeminarsVC\Csharp\print_third_number\obj\Debug\net6.0\print_third_number.pdb
+D:\SeminarsVC\Csharp\print_third_number\obj\Debug\net6.0\print_third_number.genruntimeconfig.cache
+D:\SeminarsVC\Csharp\print_third_number\obj\Debug\net6.0\ref\print_third_number.dll
