@@ -1,0 +1,15 @@
+D:\SeminarsVC\Csharp\distance_between_dots\bin\Debug\net6.0\distance_between_dots.exe
+D:\SeminarsVC\Csharp\distance_between_dots\bin\Debug\net6.0\distance_between_dots.deps.json
+D:\SeminarsVC\Csharp\distance_between_dots\bin\Debug\net6.0\distance_between_dots.runtimeconfig.json
+D:\SeminarsVC\Csharp\distance_between_dots\bin\Debug\net6.0\distance_between_dots.dll
+D:\SeminarsVC\Csharp\distance_between_dots\bin\Debug\net6.0\distance_between_dots.pdb
+D:\SeminarsVC\Csharp\distance_between_dots\obj\Debug\net6.0\distance_between_dots.csproj.AssemblyReference.cache
+D:\SeminarsVC\Csharp\distance_between_dots\obj\Debug\net6.0\distance_between_dots.GeneratedMSBuildEditorConfig.editorconfig
+D:\SeminarsVC\Csharp\distance_between_dots\obj\Debug\net6.0\distance_between_dots.AssemblyInfoInputs.cache
+D:\SeminarsVC\Csharp\distance_between_dots\obj\Debug\net6.0\distance_between_dots.AssemblyInfo.cs
+D:\SeminarsVC\Csharp\distance_between_dots\obj\Debug\net6.0\distance_between_dots.csproj.CoreCompileInputs.cache
+D:\SeminarsVC\Csharp\distance_between_dots\obj\Debug\net6.0\distance_between_dots.dll
+D:\SeminarsVC\Csharp\distance_between_dots\obj\Debug\net6.0\refint\distance_between_dots.dll
+D:\SeminarsVC\Csharp\distance_between_dots\obj\Debug\net6.0\distance_between_dots.pdb
+D:\SeminarsVC\Csharp\distance_between_dots\obj\Debug\net6.0\distance_between_dots.genruntimeconfig.cache
+D:\SeminarsVC\Csharp\distance_between_dots\obj\Debug\net6.0\ref\distance_between_dots.dll

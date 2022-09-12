@@ -1,0 +1,15 @@
+D:\SeminarsVC\Csharp\check_if_number_is_palindrome\bin\Debug\net6.0\check_if_number_is_palindrome.exe
+D:\SeminarsVC\Csharp\check_if_number_is_palindrome\bin\Debug\net6.0\check_if_number_is_palindrome.deps.json
+D:\SeminarsVC\Csharp\check_if_number_is_palindrome\bin\Debug\net6.0\check_if_number_is_palindrome.runtimeconfig.json
+D:\SeminarsVC\Csharp\check_if_number_is_palindrome\bin\Debug\net6.0\check_if_number_is_palindrome.dll
+D:\SeminarsVC\Csharp\check_if_number_is_palindrome\bin\Debug\net6.0\check_if_number_is_palindrome.pdb
+D:\SeminarsVC\Csharp\check_if_number_is_palindrome\obj\Debug\net6.0\check_if_number_is_palindrome.csproj.AssemblyReference.cache
+D:\SeminarsVC\Csharp\check_if_number_is_palindrome\obj\Debug\net6.0\check_if_number_is_palindrome.GeneratedMSBuildEditorConfig.editorconfig
+D:\SeminarsVC\Csharp\check_if_number_is_palindrome\obj\Debug\net6.0\check_if_number_is_palindrome.AssemblyInfoInputs.cache
+D:\SeminarsVC\Csharp\check_if_number_is_palindrome\obj\Debug\net6.0\check_if_number_is_palindrome.AssemblyInfo.cs
+D:\SeminarsVC\Csharp\check_if_number_is_palindrome\obj\Debug\net6.0\check_if_number_is_palindrome.csproj.CoreCompileInputs.cache
+D:\SeminarsVC\Csharp\check_if_number_is_palindrome\obj\Debug\net6.0\check_if_number_is_palindrome.dll
+D:\SeminarsVC\Csharp\check_if_number_is_palindrome\obj\Debug\net6.0\refint\check_if_number_is_palindrome.dll
+D:\SeminarsVC\Csharp\check_if_number_is_palindrome\obj\Debug\net6.0\check_if_number_is_palindrome.pdb
+D:\SeminarsVC\Csharp\check_if_number_is_palindrome\obj\Debug\net6.0\check_if_number_is_palindrome.genruntimeconfig.cache
+D:\SeminarsVC\Csharp\check_if_number_is_palindrome\obj\Debug\net6.0\ref\check_if_number_is_palindrome.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "check_if_number_is_palindrome/1.0.0": {
+        "runtime": {
+          "check_if_number_is_palindrome.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "check_if_number_is_palindrome/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

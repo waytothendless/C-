@@ -1,0 +1,15 @@
+D:\SeminarsVC\Csharp\print_cube_values\bin\Debug\net6.0\print_cube_values.exe
+D:\SeminarsVC\Csharp\print_cube_values\bin\Debug\net6.0\print_cube_values.deps.json
+D:\SeminarsVC\Csharp\print_cube_values\bin\Debug\net6.0\print_cube_values.runtimeconfig.json
+D:\SeminarsVC\Csharp\print_cube_values\bin\Debug\net6.0\print_cube_values.dll
+D:\SeminarsVC\Csharp\print_cube_values\bin\Debug\net6.0\print_cube_values.pdb
+D:\SeminarsVC\Csharp\print_cube_values\obj\Debug\net6.0\print_cube_values.csproj.AssemblyReference.cache
+D:\SeminarsVC\Csharp\print_cube_values\obj\Debug\net6.0\print_cube_values.GeneratedMSBuildEditorConfig.editorconfig
+D:\SeminarsVC\Csharp\print_cube_values\obj\Debug\net6.0\print_cube_values.AssemblyInfoInputs.cache
+D:\SeminarsVC\Csharp\print_cube_values\obj\Debug\net6.0\print_cube_values.AssemblyInfo.cs
+D:\SeminarsVC\Csharp\print_cube_values\obj\Debug\net6.0\print_cube_values.csproj.CoreCompileInputs.cache
+D:\SeminarsVC\Csharp\print_cube_values\obj\Debug\net6.0\print_cube_values.dll
+D:\SeminarsVC\Csharp\print_cube_values\obj\Debug\net6.0\refint\print_cube_values.dll
+D:\SeminarsVC\Csharp\print_cube_values\obj\Debug\net6.0\print_cube_values.pdb
+D:\SeminarsVC\Csharp\print_cube_values\obj\Debug\net6.0\print_cube_values.genruntimeconfig.cache
+D:\SeminarsVC\Csharp\print_cube_values\obj\Debug\net6.0\ref\print_cube_values.dll
