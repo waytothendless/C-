@@ -1,0 +1,15 @@
+D:\SeminarsVC\Csharp\init_array\bin\Debug\net6.0\init_array.exe
+D:\SeminarsVC\Csharp\init_array\bin\Debug\net6.0\init_array.deps.json
+D:\SeminarsVC\Csharp\init_array\bin\Debug\net6.0\init_array.runtimeconfig.json
+D:\SeminarsVC\Csharp\init_array\bin\Debug\net6.0\init_array.dll
+D:\SeminarsVC\Csharp\init_array\bin\Debug\net6.0\init_array.pdb
+D:\SeminarsVC\Csharp\init_array\obj\Debug\net6.0\init_array.csproj.AssemblyReference.cache
+D:\SeminarsVC\Csharp\init_array\obj\Debug\net6.0\init_array.GeneratedMSBuildEditorConfig.editorconfig
+D:\SeminarsVC\Csharp\init_array\obj\Debug\net6.0\init_array.AssemblyInfoInputs.cache
+D:\SeminarsVC\Csharp\init_array\obj\Debug\net6.0\init_array.AssemblyInfo.cs
+D:\SeminarsVC\Csharp\init_array\obj\Debug\net6.0\init_array.csproj.CoreCompileInputs.cache
+D:\SeminarsVC\Csharp\init_array\obj\Debug\net6.0\init_array.dll
+D:\SeminarsVC\Csharp\init_array\obj\Debug\net6.0\refint\init_array.dll
+D:\SeminarsVC\Csharp\init_array\obj\Debug\net6.0\init_array.pdb
+D:\SeminarsVC\Csharp\init_array\obj\Debug\net6.0\init_array.genruntimeconfig.cache
+D:\SeminarsVC\Csharp\init_array\obj\Debug\net6.0\ref\init_array.dll

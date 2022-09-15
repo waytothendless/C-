@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "count_sum_of_digits/1.0.0": {
+        "runtime": {
+          "count_sum_of_digits.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "count_sum_of_digits/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

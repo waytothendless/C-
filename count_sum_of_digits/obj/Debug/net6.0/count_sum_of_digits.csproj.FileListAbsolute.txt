@@ -1,0 +1,15 @@
+D:\SeminarsVC\Csharp\count_sum_of_digits\bin\Debug\net6.0\count_sum_of_digits.exe
+D:\SeminarsVC\Csharp\count_sum_of_digits\bin\Debug\net6.0\count_sum_of_digits.deps.json
+D:\SeminarsVC\Csharp\count_sum_of_digits\bin\Debug\net6.0\count_sum_of_digits.runtimeconfig.json
+D:\SeminarsVC\Csharp\count_sum_of_digits\bin\Debug\net6.0\count_sum_of_digits.dll
+D:\SeminarsVC\Csharp\count_sum_of_digits\bin\Debug\net6.0\count_sum_of_digits.pdb
+D:\SeminarsVC\Csharp\count_sum_of_digits\obj\Debug\net6.0\count_sum_of_digits.csproj.AssemblyReference.cache
+D:\SeminarsVC\Csharp\count_sum_of_digits\obj\Debug\net6.0\count_sum_of_digits.GeneratedMSBuildEditorConfig.editorconfig
+D:\SeminarsVC\Csharp\count_sum_of_digits\obj\Debug\net6.0\count_sum_of_digits.AssemblyInfoInputs.cache
+D:\SeminarsVC\Csharp\count_sum_of_digits\obj\Debug\net6.0\count_sum_of_digits.AssemblyInfo.cs
+D:\SeminarsVC\Csharp\count_sum_of_digits\obj\Debug\net6.0\count_sum_of_digits.csproj.CoreCompileInputs.cache
+D:\SeminarsVC\Csharp\count_sum_of_digits\obj\Debug\net6.0\count_sum_of_digits.dll
+D:\SeminarsVC\Csharp\count_sum_of_digits\obj\Debug\net6.0\refint\count_sum_of_digits.dll
+D:\SeminarsVC\Csharp\count_sum_of_digits\obj\Debug\net6.0\count_sum_of_digits.pdb
+D:\SeminarsVC\Csharp\count_sum_of_digits\obj\Debug\net6.0\count_sum_of_digits.genruntimeconfig.cache
+D:\SeminarsVC\Csharp\count_sum_of_digits\obj\Debug\net6.0\ref\count_sum_of_digits.dll

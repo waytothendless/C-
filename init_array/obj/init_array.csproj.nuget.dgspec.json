@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\SeminarsVC\\Csharp\\init_array\\init_array.csproj": {}
+  },
+  "projects": {
+    "D:\\SeminarsVC\\Csharp\\init_array\\init_array.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SeminarsVC\\Csharp\\init_array\\init_array.csproj",
+        "projectName": "init_array",
+        "projectPath": "D:\\SeminarsVC\\Csharp\\init_array\\init_array.csproj",
+        "packagesPath": "C:\\Users\\iks_rotarran\\.nuget\\packages\\",
+        "outputPath": "D:\\SeminarsVC\\Csharp\\init_array\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\iks_rotarran\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
