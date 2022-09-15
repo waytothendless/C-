@@ -1,0 +1,15 @@
+D:\SeminarsVC\Csharp\take_number_to_the_power\bin\Debug\net6.0\take_number_to_the_power.exe
+D:\SeminarsVC\Csharp\take_number_to_the_power\bin\Debug\net6.0\take_number_to_the_power.deps.json
+D:\SeminarsVC\Csharp\take_number_to_the_power\bin\Debug\net6.0\take_number_to_the_power.runtimeconfig.json
+D:\SeminarsVC\Csharp\take_number_to_the_power\bin\Debug\net6.0\take_number_to_the_power.dll
+D:\SeminarsVC\Csharp\take_number_to_the_power\bin\Debug\net6.0\take_number_to_the_power.pdb
+D:\SeminarsVC\Csharp\take_number_to_the_power\obj\Debug\net6.0\take_number_to_the_power.csproj.AssemblyReference.cache
+D:\SeminarsVC\Csharp\take_number_to_the_power\obj\Debug\net6.0\take_number_to_the_power.GeneratedMSBuildEditorConfig.editorconfig
+D:\SeminarsVC\Csharp\take_number_to_the_power\obj\Debug\net6.0\take_number_to_the_power.AssemblyInfoInputs.cache
+D:\SeminarsVC\Csharp\take_number_to_the_power\obj\Debug\net6.0\take_number_to_the_power.AssemblyInfo.cs
+D:\SeminarsVC\Csharp\take_number_to_the_power\obj\Debug\net6.0\take_number_to_the_power.csproj.CoreCompileInputs.cache
+D:\SeminarsVC\Csharp\take_number_to_the_power\obj\Debug\net6.0\take_number_to_the_power.dll
+D:\SeminarsVC\Csharp\take_number_to_the_power\obj\Debug\net6.0\refint\take_number_to_the_power.dll
+D:\SeminarsVC\Csharp\take_number_to_the_power\obj\Debug\net6.0\take_number_to_the_power.pdb
+D:\SeminarsVC\Csharp\take_number_to_the_power\obj\Debug\net6.0\take_number_to_the_power.genruntimeconfig.cache
+D:\SeminarsVC\Csharp\take_number_to_the_power\obj\Debug\net6.0\ref\take_number_to_the_power.dll
