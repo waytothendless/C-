@@ -1,0 +1,15 @@
+D:\SeminarsVC\Csharp\count_sum_of_odds\bin\Debug\net6.0\count_sum_of_odds.exe
+D:\SeminarsVC\Csharp\count_sum_of_odds\bin\Debug\net6.0\count_sum_of_odds.deps.json
+D:\SeminarsVC\Csharp\count_sum_of_odds\bin\Debug\net6.0\count_sum_of_odds.runtimeconfig.json
+D:\SeminarsVC\Csharp\count_sum_of_odds\bin\Debug\net6.0\count_sum_of_odds.dll
+D:\SeminarsVC\Csharp\count_sum_of_odds\bin\Debug\net6.0\count_sum_of_odds.pdb
+D:\SeminarsVC\Csharp\count_sum_of_odds\obj\Debug\net6.0\count_sum_of_odds.csproj.AssemblyReference.cache
+D:\SeminarsVC\Csharp\count_sum_of_odds\obj\Debug\net6.0\count_sum_of_odds.GeneratedMSBuildEditorConfig.editorconfig
+D:\SeminarsVC\Csharp\count_sum_of_odds\obj\Debug\net6.0\count_sum_of_odds.AssemblyInfoInputs.cache
+D:\SeminarsVC\Csharp\count_sum_of_odds\obj\Debug\net6.0\count_sum_of_odds.AssemblyInfo.cs
+D:\SeminarsVC\Csharp\count_sum_of_odds\obj\Debug\net6.0\count_sum_of_odds.csproj.CoreCompileInputs.cache
+D:\SeminarsVC\Csharp\count_sum_of_odds\obj\Debug\net6.0\count_sum_of_odds.dll
+D:\SeminarsVC\Csharp\count_sum_of_odds\obj\Debug\net6.0\refint\count_sum_of_odds.dll
+D:\SeminarsVC\Csharp\count_sum_of_odds\obj\Debug\net6.0\count_sum_of_odds.pdb
+D:\SeminarsVC\Csharp\count_sum_of_odds\obj\Debug\net6.0\count_sum_of_odds.genruntimeconfig.cache
+D:\SeminarsVC\Csharp\count_sum_of_odds\obj\Debug\net6.0\ref\count_sum_of_odds.dll

@@ -1,0 +1,15 @@
+D:\SeminarsVC\Csharp\find_diff_between_max_and_min\bin\Debug\net6.0\find_diff_between_max_and_min.exe
+D:\SeminarsVC\Csharp\find_diff_between_max_and_min\bin\Debug\net6.0\find_diff_between_max_and_min.deps.json
+D:\SeminarsVC\Csharp\find_diff_between_max_and_min\bin\Debug\net6.0\find_diff_between_max_and_min.runtimeconfig.json
+D:\SeminarsVC\Csharp\find_diff_between_max_and_min\bin\Debug\net6.0\find_diff_between_max_and_min.dll
+D:\SeminarsVC\Csharp\find_diff_between_max_and_min\bin\Debug\net6.0\find_diff_between_max_and_min.pdb
+D:\SeminarsVC\Csharp\find_diff_between_max_and_min\obj\Debug\net6.0\find_diff_between_max_and_min.csproj.AssemblyReference.cache
+D:\SeminarsVC\Csharp\find_diff_between_max_and_min\obj\Debug\net6.0\find_diff_between_max_and_min.GeneratedMSBuildEditorConfig.editorconfig
+D:\SeminarsVC\Csharp\find_diff_between_max_and_min\obj\Debug\net6.0\find_diff_between_max_and_min.AssemblyInfoInputs.cache
+D:\SeminarsVC\Csharp\find_diff_between_max_and_min\obj\Debug\net6.0\find_diff_between_max_and_min.AssemblyInfo.cs
+D:\SeminarsVC\Csharp\find_diff_between_max_and_min\obj\Debug\net6.0\find_diff_between_max_and_min.csproj.CoreCompileInputs.cache
+D:\SeminarsVC\Csharp\find_diff_between_max_and_min\obj\Debug\net6.0\find_diff_between_max_and_min.dll
+D:\SeminarsVC\Csharp\find_diff_between_max_and_min\obj\Debug\net6.0\refint\find_diff_between_max_and_min.dll
+D:\SeminarsVC\Csharp\find_diff_between_max_and_min\obj\Debug\net6.0\find_diff_between_max_and_min.pdb
+D:\SeminarsVC\Csharp\find_diff_between_max_and_min\obj\Debug\net6.0\find_diff_between_max_and_min.genruntimeconfig.cache
+D:\SeminarsVC\Csharp\find_diff_between_max_and_min\obj\Debug\net6.0\ref\find_diff_between_max_and_min.dll

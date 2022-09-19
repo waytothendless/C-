@@ -1,0 +1,15 @@
+D:\SeminarsVC\Csharp\count_num_of_odds_in_array\bin\Debug\net6.0\count_num_of_odds_in_array.exe
+D:\SeminarsVC\Csharp\count_num_of_odds_in_array\bin\Debug\net6.0\count_num_of_odds_in_array.deps.json
+D:\SeminarsVC\Csharp\count_num_of_odds_in_array\bin\Debug\net6.0\count_num_of_odds_in_array.runtimeconfig.json
+D:\SeminarsVC\Csharp\count_num_of_odds_in_array\bin\Debug\net6.0\count_num_of_odds_in_array.dll
+D:\SeminarsVC\Csharp\count_num_of_odds_in_array\bin\Debug\net6.0\count_num_of_odds_in_array.pdb
+D:\SeminarsVC\Csharp\count_num_of_odds_in_array\obj\Debug\net6.0\count_num_of_odds_in_array.csproj.AssemblyReference.cache
+D:\SeminarsVC\Csharp\count_num_of_odds_in_array\obj\Debug\net6.0\count_num_of_odds_in_array.GeneratedMSBuildEditorConfig.editorconfig
+D:\SeminarsVC\Csharp\count_num_of_odds_in_array\obj\Debug\net6.0\count_num_of_odds_in_array.AssemblyInfoInputs.cache
+D:\SeminarsVC\Csharp\count_num_of_odds_in_array\obj\Debug\net6.0\count_num_of_odds_in_array.AssemblyInfo.cs
+D:\SeminarsVC\Csharp\count_num_of_odds_in_array\obj\Debug\net6.0\count_num_of_odds_in_array.csproj.CoreCompileInputs.cache
+D:\SeminarsVC\Csharp\count_num_of_odds_in_array\obj\Debug\net6.0\count_num_of_odds_in_array.dll
+D:\SeminarsVC\Csharp\count_num_of_odds_in_array\obj\Debug\net6.0\refint\count_num_of_odds_in_array.dll
+D:\SeminarsVC\Csharp\count_num_of_odds_in_array\obj\Debug\net6.0\count_num_of_odds_in_array.pdb
+D:\SeminarsVC\Csharp\count_num_of_odds_in_array\obj\Debug\net6.0\count_num_of_odds_in_array.genruntimeconfig.cache
+D:\SeminarsVC\Csharp\count_num_of_odds_in_array\obj\Debug\net6.0\ref\count_num_of_odds_in_array.dll
