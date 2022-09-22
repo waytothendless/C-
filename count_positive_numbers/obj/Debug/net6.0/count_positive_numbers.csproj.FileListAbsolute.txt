@@ -1,0 +1,15 @@
+D:\SeminarsVC\Csharp\count_positive_numbers\obj\Debug\net6.0\count_positive_numbers.csproj.AssemblyReference.cache
+D:\SeminarsVC\Csharp\count_positive_numbers\obj\Debug\net6.0\count_positive_numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SeminarsVC\Csharp\count_positive_numbers\obj\Debug\net6.0\count_positive_numbers.AssemblyInfoInputs.cache
+D:\SeminarsVC\Csharp\count_positive_numbers\obj\Debug\net6.0\count_positive_numbers.AssemblyInfo.cs
+D:\SeminarsVC\Csharp\count_positive_numbers\obj\Debug\net6.0\count_positive_numbers.csproj.CoreCompileInputs.cache
+D:\SeminarsVC\Csharp\count_positive_numbers\bin\Debug\net6.0\count_positive_numbers.exe
+D:\SeminarsVC\Csharp\count_positive_numbers\bin\Debug\net6.0\count_positive_numbers.deps.json
+D:\SeminarsVC\Csharp\count_positive_numbers\bin\Debug\net6.0\count_positive_numbers.runtimeconfig.json
+D:\SeminarsVC\Csharp\count_positive_numbers\bin\Debug\net6.0\count_positive_numbers.dll
+D:\SeminarsVC\Csharp\count_positive_numbers\bin\Debug\net6.0\count_positive_numbers.pdb
+D:\SeminarsVC\Csharp\count_positive_numbers\obj\Debug\net6.0\count_positive_numbers.dll
+D:\SeminarsVC\Csharp\count_positive_numbers\obj\Debug\net6.0\refint\count_positive_numbers.dll
+D:\SeminarsVC\Csharp\count_positive_numbers\obj\Debug\net6.0\count_positive_numbers.pdb
+D:\SeminarsVC\Csharp\count_positive_numbers\obj\Debug\net6.0\count_positive_numbers.genruntimeconfig.cache
+D:\SeminarsVC\Csharp\count_positive_numbers\obj\Debug\net6.0\ref\count_positive_numbers.dll

@@ -1,0 +1,15 @@
+D:\SeminarsVC\Csharp\find_cross_point\bin\Debug\net6.0\find_cross_point.exe
+D:\SeminarsVC\Csharp\find_cross_point\bin\Debug\net6.0\find_cross_point.deps.json
+D:\SeminarsVC\Csharp\find_cross_point\bin\Debug\net6.0\find_cross_point.runtimeconfig.json
+D:\SeminarsVC\Csharp\find_cross_point\bin\Debug\net6.0\find_cross_point.dll
+D:\SeminarsVC\Csharp\find_cross_point\bin\Debug\net6.0\find_cross_point.pdb
+D:\SeminarsVC\Csharp\find_cross_point\obj\Debug\net6.0\find_cross_point.csproj.AssemblyReference.cache
+D:\SeminarsVC\Csharp\find_cross_point\obj\Debug\net6.0\find_cross_point.GeneratedMSBuildEditorConfig.editorconfig
+D:\SeminarsVC\Csharp\find_cross_point\obj\Debug\net6.0\find_cross_point.AssemblyInfoInputs.cache
+D:\SeminarsVC\Csharp\find_cross_point\obj\Debug\net6.0\find_cross_point.AssemblyInfo.cs
+D:\SeminarsVC\Csharp\find_cross_point\obj\Debug\net6.0\find_cross_point.csproj.CoreCompileInputs.cache
+D:\SeminarsVC\Csharp\find_cross_point\obj\Debug\net6.0\find_cross_point.dll
+D:\SeminarsVC\Csharp\find_cross_point\obj\Debug\net6.0\refint\find_cross_point.dll
+D:\SeminarsVC\Csharp\find_cross_point\obj\Debug\net6.0\find_cross_point.pdb
+D:\SeminarsVC\Csharp\find_cross_point\obj\Debug\net6.0\find_cross_point.genruntimeconfig.cache
+D:\SeminarsVC\Csharp\find_cross_point\obj\Debug\net6.0\ref\find_cross_point.dll
