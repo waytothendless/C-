@@ -1,0 +1,15 @@
+D:\SeminarsVC\Csharp\check_if_value_exists_in_2d_array\bin\Debug\net6.0\check_if_value_exists_in_2d_array.exe
+D:\SeminarsVC\Csharp\check_if_value_exists_in_2d_array\bin\Debug\net6.0\check_if_value_exists_in_2d_array.deps.json
+D:\SeminarsVC\Csharp\check_if_value_exists_in_2d_array\bin\Debug\net6.0\check_if_value_exists_in_2d_array.runtimeconfig.json
+D:\SeminarsVC\Csharp\check_if_value_exists_in_2d_array\bin\Debug\net6.0\check_if_value_exists_in_2d_array.dll
+D:\SeminarsVC\Csharp\check_if_value_exists_in_2d_array\bin\Debug\net6.0\check_if_value_exists_in_2d_array.pdb
+D:\SeminarsVC\Csharp\check_if_value_exists_in_2d_array\obj\Debug\net6.0\check_if_value_exists_in_2d_array.csproj.AssemblyReference.cache
+D:\SeminarsVC\Csharp\check_if_value_exists_in_2d_array\obj\Debug\net6.0\check_if_value_exists_in_2d_array.GeneratedMSBuildEditorConfig.editorconfig
+D:\SeminarsVC\Csharp\check_if_value_exists_in_2d_array\obj\Debug\net6.0\check_if_value_exists_in_2d_array.AssemblyInfoInputs.cache
+D:\SeminarsVC\Csharp\check_if_value_exists_in_2d_array\obj\Debug\net6.0\check_if_value_exists_in_2d_array.AssemblyInfo.cs
+D:\SeminarsVC\Csharp\check_if_value_exists_in_2d_array\obj\Debug\net6.0\check_if_value_exists_in_2d_array.csproj.CoreCompileInputs.cache
+D:\SeminarsVC\Csharp\check_if_value_exists_in_2d_array\obj\Debug\net6.0\check_if_value_exists_in_2d_array.dll
+D:\SeminarsVC\Csharp\check_if_value_exists_in_2d_array\obj\Debug\net6.0\refint\check_if_value_exists_in_2d_array.dll
+D:\SeminarsVC\Csharp\check_if_value_exists_in_2d_array\obj\Debug\net6.0\check_if_value_exists_in_2d_array.pdb
+D:\SeminarsVC\Csharp\check_if_value_exists_in_2d_array\obj\Debug\net6.0\check_if_value_exists_in_2d_array.genruntimeconfig.cache
+D:\SeminarsVC\Csharp\check_if_value_exists_in_2d_array\obj\Debug\net6.0\ref\check_if_value_exists_in_2d_array.dll

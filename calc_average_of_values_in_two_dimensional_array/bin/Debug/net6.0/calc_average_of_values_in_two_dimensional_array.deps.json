@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "calc_average_of_values_in_two_dimensional_array/1.0.0": {
+        "runtime": {
+          "calc_average_of_values_in_two_dimensional_array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "calc_average_of_values_in_two_dimensional_array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

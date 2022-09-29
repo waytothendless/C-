@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "check_if_value_exists_in_2d_array/1.0.0": {
+        "runtime": {
+          "check_if_value_exists_in_2d_array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "check_if_value_exists_in_2d_array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
