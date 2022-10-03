@@ -1,0 +1,15 @@
+C:\SeminarsVC\Csharp\menu_items\bin\Debug\net6.0\menu_items.exe
+C:\SeminarsVC\Csharp\menu_items\bin\Debug\net6.0\menu_items.deps.json
+C:\SeminarsVC\Csharp\menu_items\bin\Debug\net6.0\menu_items.runtimeconfig.json
+C:\SeminarsVC\Csharp\menu_items\bin\Debug\net6.0\menu_items.dll
+C:\SeminarsVC\Csharp\menu_items\bin\Debug\net6.0\menu_items.pdb
+C:\SeminarsVC\Csharp\menu_items\obj\Debug\net6.0\menu_items.csproj.AssemblyReference.cache
+C:\SeminarsVC\Csharp\menu_items\obj\Debug\net6.0\menu_items.GeneratedMSBuildEditorConfig.editorconfig
+C:\SeminarsVC\Csharp\menu_items\obj\Debug\net6.0\menu_items.AssemblyInfoInputs.cache
+C:\SeminarsVC\Csharp\menu_items\obj\Debug\net6.0\menu_items.AssemblyInfo.cs
+C:\SeminarsVC\Csharp\menu_items\obj\Debug\net6.0\menu_items.csproj.CoreCompileInputs.cache
+C:\SeminarsVC\Csharp\menu_items\obj\Debug\net6.0\menu_items.dll
+C:\SeminarsVC\Csharp\menu_items\obj\Debug\net6.0\refint\menu_items.dll
+C:\SeminarsVC\Csharp\menu_items\obj\Debug\net6.0\menu_items.pdb
+C:\SeminarsVC\Csharp\menu_items\obj\Debug\net6.0\menu_items.genruntimeconfig.cache
+C:\SeminarsVC\Csharp\menu_items\obj\Debug\net6.0\ref\menu_items.dll
