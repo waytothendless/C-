@@ -1,0 +1,15 @@
+C:\SeminarsVC\Csharp\print_natural_numbers_in_range\obj\Debug\net6.0\print_natural_numbers_in_range.csproj.AssemblyReference.cache
+C:\SeminarsVC\Csharp\print_natural_numbers_in_range\obj\Debug\net6.0\print_natural_numbers_in_range.GeneratedMSBuildEditorConfig.editorconfig
+C:\SeminarsVC\Csharp\print_natural_numbers_in_range\obj\Debug\net6.0\print_natural_numbers_in_range.AssemblyInfoInputs.cache
+C:\SeminarsVC\Csharp\print_natural_numbers_in_range\obj\Debug\net6.0\print_natural_numbers_in_range.AssemblyInfo.cs
+C:\SeminarsVC\Csharp\print_natural_numbers_in_range\obj\Debug\net6.0\print_natural_numbers_in_range.csproj.CoreCompileInputs.cache
+C:\SeminarsVC\Csharp\print_natural_numbers_in_range\bin\Debug\net6.0\print_natural_numbers_in_range.exe
+C:\SeminarsVC\Csharp\print_natural_numbers_in_range\bin\Debug\net6.0\print_natural_numbers_in_range.deps.json
+C:\SeminarsVC\Csharp\print_natural_numbers_in_range\bin\Debug\net6.0\print_natural_numbers_in_range.runtimeconfig.json
+C:\SeminarsVC\Csharp\print_natural_numbers_in_range\bin\Debug\net6.0\print_natural_numbers_in_range.dll
+C:\SeminarsVC\Csharp\print_natural_numbers_in_range\bin\Debug\net6.0\print_natural_numbers_in_range.pdb
+C:\SeminarsVC\Csharp\print_natural_numbers_in_range\obj\Debug\net6.0\print_natural_numbers_in_range.dll
+C:\SeminarsVC\Csharp\print_natural_numbers_in_range\obj\Debug\net6.0\refint\print_natural_numbers_in_range.dll
+C:\SeminarsVC\Csharp\print_natural_numbers_in_range\obj\Debug\net6.0\print_natural_numbers_in_range.pdb
+C:\SeminarsVC\Csharp\print_natural_numbers_in_range\obj\Debug\net6.0\print_natural_numbers_in_range.genruntimeconfig.cache
+C:\SeminarsVC\Csharp\print_natural_numbers_in_range\obj\Debug\net6.0\ref\print_natural_numbers_in_range.dll

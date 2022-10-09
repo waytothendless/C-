@@ -135,6 +135,7 @@ bool Barrier(int x, int y)
 
     return true;
 }
+
 int x = 2;
 int y = 2;
 while (true)

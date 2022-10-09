@@ -1,0 +1,15 @@
+C:\SeminarsVC\Csharp\ackermann_function\bin\Debug\net6.0\ackermann_function.exe
+C:\SeminarsVC\Csharp\ackermann_function\bin\Debug\net6.0\ackermann_function.deps.json
+C:\SeminarsVC\Csharp\ackermann_function\bin\Debug\net6.0\ackermann_function.runtimeconfig.json
+C:\SeminarsVC\Csharp\ackermann_function\bin\Debug\net6.0\ackermann_function.dll
+C:\SeminarsVC\Csharp\ackermann_function\bin\Debug\net6.0\ackermann_function.pdb
+C:\SeminarsVC\Csharp\ackermann_function\obj\Debug\net6.0\ackermann_function.csproj.AssemblyReference.cache
+C:\SeminarsVC\Csharp\ackermann_function\obj\Debug\net6.0\ackermann_function.GeneratedMSBuildEditorConfig.editorconfig
+C:\SeminarsVC\Csharp\ackermann_function\obj\Debug\net6.0\ackermann_function.AssemblyInfoInputs.cache
+C:\SeminarsVC\Csharp\ackermann_function\obj\Debug\net6.0\ackermann_function.AssemblyInfo.cs
+C:\SeminarsVC\Csharp\ackermann_function\obj\Debug\net6.0\ackermann_function.csproj.CoreCompileInputs.cache
+C:\SeminarsVC\Csharp\ackermann_function\obj\Debug\net6.0\ackermann_function.dll
+C:\SeminarsVC\Csharp\ackermann_function\obj\Debug\net6.0\refint\ackermann_function.dll
+C:\SeminarsVC\Csharp\ackermann_function\obj\Debug\net6.0\ackermann_function.pdb
+C:\SeminarsVC\Csharp\ackermann_function\obj\Debug\net6.0\ackermann_function.genruntimeconfig.cache
+C:\SeminarsVC\Csharp\ackermann_function\obj\Debug\net6.0\ref\ackermann_function.dll
